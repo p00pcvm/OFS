@@ -6,7 +6,7 @@ The project is based on OpenGL, SDL2, ImGui, libmpv, & all these other great [li
 
 ### How to build ( for people who want to contribute or fork )
 1. Clone the repository
-2. `cd "OpenFunscripter"`
+2. `cd "OFS"`
 3. `git submodule update --init`
 4. Run CMake and compile
 
